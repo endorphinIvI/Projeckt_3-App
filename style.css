@@ -61,9 +61,6 @@ p {
   input {
     top: 80px;
   }
-  /* .vizitky {
-    top: 200px;
-  } */
   .vizitky div {
     min-width: 47%;
     border: 3px solid black;
